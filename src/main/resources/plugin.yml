@@ -1,0 +1,26 @@
+name: DragonCraftEvent
+version: ${project.version}-b${buildNumber}
+main: pl.dcrft.DragonCraftEvent
+api-version: 1.19
+author: NickNickerYT
+description: DragonCraftEvent
+commands:
+  czat:
+    description: Przełaczanie czatu.
+    permission: panel.mod
+  ac:
+    description: Włącz AdminChat.
+    permission: admin.chat
+  mc:
+    description: Włącz ModChat.
+    permission: mod.chat
+  restart:
+    description: aa
+  gracz:
+    description: aa
+  dce:
+    description: aa
+  cc:
+    description: aa
+  dcccast:
+    description: aa
